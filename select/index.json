@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワッチャマコールイット（feat. クリス・ブラウン）",
+  "base_artist": "エラ・メイ",
+  "createdAt": "2026-03-13T15:02:00.408811Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Whatchamacallit (feat. Chris Brown)",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_Whatchamacallit_(feat._Chris_Brown)_Ella_Mai.txt"
+    }
+  ]
+}
